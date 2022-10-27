@@ -1,2 +1,0 @@
-# hellogit
-opcjonalny description
